@@ -11,7 +11,7 @@ import (
 	"github.com/golang/mock/gomock"
 	mockdb "github.com/pekempy/simplebank/db/mock"
 	db "github.com/pekempy/simplebank/db/sqlc"
-	"github.com/techschool/simplebank/util"
+	"github.com/pekempy/simplebank/util"
 )
 
 func TestGetAccountAPI(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/techschool/simplebank
+module github.com/pekempy/simplebank
 
 go 1.20
 
